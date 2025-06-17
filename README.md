@@ -4,5 +4,5 @@
 Chat slowdown 🔓 (Can be bypassable with a permission & can be toggled)
 
 📰 **Plans**  
-`/clearchat` command, 👋
+`/clearchat` command, 👋  
 `/lockchat` command 💸

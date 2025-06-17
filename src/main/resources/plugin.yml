@@ -1,0 +1,10 @@
+name: DivineChat
+version: '1.0'
+main: lol.mayaaa.divinechat.DivineChat
+commands:
+  clearchat:
+    description: "Clears the chat for all players"
+    usage: "/clearchat"
+  lockchat:
+    description: "Locks or unlocks the chat"
+    usage: "/lockchat"

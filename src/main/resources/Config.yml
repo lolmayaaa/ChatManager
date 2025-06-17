@@ -1,0 +1,10 @@
+##########################
+# ChatManager by lolmayaaa
+# Version 1.0
+##########################
+
+# Should the chat have cooldown?
+cooldown: true
+
+# If yes, how many seconds for 1 message? 3 means 1 message every 3 seconds
+cooldown-time: 3
